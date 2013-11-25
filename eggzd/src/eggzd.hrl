@@ -1,0 +1,1 @@
+-define(GGZ_C2S_PROTO_VERSION, 10).
